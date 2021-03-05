@@ -20,17 +20,17 @@
     {
       "userId": 1,
       "id": "Segundo álbum da banda Nirvana",
-      "title": Nevermind
+      "title": "Nevermind"
     },
     {
       "userId": 2,
       "id": "Oitavo álbum da banda de rock The Beatles",
-      "title": Sgt. Pepper's Lonely Hearts Club Band
+      "title": "Sgt. Pepper's Lonely Hearts Club Band
     },
     {
       "userId": 3,
       "id": "Sexto álbum da cantora Lady Gaga",
-      "title": Chromatica
+      "title": "Chromatica"
     }
   ],
   "To-dos": [
